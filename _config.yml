@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This website displays student projects from the Design and Urban Ecologies
   Methods 3 class – Fall 2016.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://due-parsons.github.io/methods3-fall2016/" # the base hostname & protocol for your site
+url: "https://due-parsons.github.io/methods3-fall2016/" # the base hostname & protocol for your site
 twitter_username:
 github_username:  DUE-Parsons
 
