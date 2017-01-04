@@ -3,7 +3,7 @@ layout: project-page
 title: "Urban Transformations in New York: Targeting the Vulnerable"
 linkname: urban-transformations-in-new-york-targeting-the-vulnerable
 author: "Fernando Canteli de Castro"
-tagline: "It is important to understand how "
+tagline: "De Blasio's rezonings: Affecting low-income and non-white neighborhoods"
 location:
     - place: New York, USA
 project-link:
